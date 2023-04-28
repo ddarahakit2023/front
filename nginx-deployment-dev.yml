@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: front-dev-deployment
+  namespace: sjb-dev
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      type: front
+  template:
+    metadata:
+      labels:
+        type: front
+    spec:
+      containers:
+      - name: container
+        image: ddarahakit2023/front:latest
+        ports:
+        - containerPort: 80
