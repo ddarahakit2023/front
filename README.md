@@ -8,13 +8,7 @@
 각 프로젝트의 뱃지는 프로젝트에서 사용한 기술들만 나열  
 현재는 많이 쓸만한 것들을 그냥 다 추가해둔 상태
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=round&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=round&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=round&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=round&logo=Spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=round&logo=SpringSecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=round&logo=React&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=round&logo=Redux&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=round&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=round&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JS-F7DF1E?style=round&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=round&logo=Spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=round&logo=SpringSecurity&logoColor=white" /> <img src="https://img.shields.io/badge/React.js-61DAFB?style=round&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=round&logo=Redux&logoColor=white" />
 
 
 
